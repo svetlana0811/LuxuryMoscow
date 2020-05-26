@@ -1,0 +1,415 @@
+@media (max-width: 1600px){
+	.inputspartInOrder {
+	    width: 60%;
+	}
+}
+@media (max-width: 1366px) {
+	.owlCarouselOurWorks .item > div:first-child>div, .owlCarouselOurWorks .item > div:last-child>div {
+		height: 350px;
+	}
+	.owlCarouselOurWorks .item > div img {
+		height: 240px !important;
+	}
+	.gallery.list-unstyled.lightSlider.lsGrab.lSSlide, .lSSlideWrapper.usingCss {
+	    height: 330px !important;
+	}
+	.productItems .items {
+	    width: 31%;
+	}
+	
+}
+@media (max-width: 1100px) {
+	.gallery.list-unstyled.lightSlider.lsGrab.lSSlide, .lSSlideWrapper.usingCss {
+	    height: 250px !important;
+	}
+	.logoArea img {
+	    width: 200px;
+	}
+	.aboutPicture {
+		height: 400px;
+	}
+	.aboutText {
+	    padding: 0 30px;
+	}
+	.aboutText p {
+	    max-height: 120px;
+        font-size: 15px;
+	}
+	#owl-demo .item .imageOfTop {
+		width: 200px;
+    	height: 200px;
+	}
+	.topProducts h1, .latestProducts h1 , .brendsSlider h1 , .contactus h1 , .ourWorksSlider > p{
+		font-size: 24px;
+	    margin: 30px 0 50px;
+	}
+	#owl-demo .item .infoOfTop h3 {
+	    font-size: 15px;
+	}
+	#owl-demo .item .infoOfTop p, .productItems .items .infoOfTop p {
+	    font-size: 13px;
+	}
+	.productItems .items .imageOfTop {
+		height: 200px;
+	}
+	#owl-demo .item .moreInfo, .productItems .items .moreInfo {
+	    padding: 5px;
+        font-size: 13px;
+	}
+	#owl-demo .item .infoOfTop p span.newPrice, .productItems .items span.newPrice {
+	    font-size: 16px;
+	}
+	.infoOfTop h3 {
+	    font-size: 11px;
+	}
+	.aboutTitle , .customWatchTitle{
+	    height: 330px;
+        font-size: 40px;
+	}
+	.aboutInfo p {
+		padding: 0;
+	}
+	.aboutInfo , .contactInfo label , .customWatchDescript {
+	    font-size: 15px;
+	}
+	.contactInfo input, .contactInfo textarea {
+	    font-size: 13px;
+        padding: 7px;
+	}
+	.contactInfo textarea {
+	    height: 110px;
+	}
+	iframe {
+	    height: 280px;
+	}
+	.submitButton button {
+		width: 100px;
+	    height: 35px;
+	    font-size: 15px;
+	}
+	.languageArea {
+		width: 20%;
+	}
+	.customWatchTitle h1 {
+	    font-size: 40px;
+	}
+	.owlCarouselOurWorks .item > div:first-child>div, .owlCarouselOurWorks .item > div:last-child>div {
+		height: 300px;
+	}
+	.owlCarouselOurWorks .item > div img {
+		height: 200px !important;
+	}
+	.description p {
+	    font-size: 16px;
+	}
+	.productInfo h1 , .productInfo .price {
+	    font-size: 20px;
+	}
+
+}
+@media (max-width: 900px) {
+	.owlCarouselOurWorks .item > div:first-child>div, .owlCarouselOurWorks .item > div:last-child>div {
+		height: 250px;
+	}
+	.owlCarouselOurWorks .item > div img {
+		height: 140px !important;
+	}
+	.owlCarouselOurWorks .item > div:nth-child(2) img {
+		height: 30px !important;
+    	width: 40px !important;
+	}
+	.logoArea img {
+	    width: 170px;
+	}
+	.menuArea ul li {
+	    margin: 0 5px;
+    	font-size: 14px;
+	    padding: 7px;
+	}
+	.productImageSliders , .productInfo {
+	    width: 70%;
+        margin-bottom: 20px;
+	}
+	.gallery.list-unstyled.lightSlider.lsGrab.lSSlide, .lSSlideWrapper.usingCss {
+	    height: 330px !important;
+	}
+	.productFiles {
+	    justify-content: center;
+	}
+	.productItems .items {
+	    width: 48%;
+	}
+	.productsPart {
+		width: 65%;
+	}
+	.filterItems {
+	    width: 32%;
+	}
+	.productItems .items .imageOfTop.listItem {
+	    width: 35%;
+        padding: 10px 20px;
+	}
+	.forList.listItem {
+		width: 63%;
+	}
+	.colorParts.listItem {
+	    margin: 10px 0;
+	}
+
+}
+
+@media (max-width: 768px) {
+	.owlCarouselOurWorks .item > div:first-child>div, .owlCarouselOurWorks .item > div:last-child>div {
+		height: 200px;
+	}
+	.owlCarouselOurWorks .item > div img {
+		height: 100px !important;
+	}
+	.contactInfo , .submitButton{
+	    width: 70%;
+	}
+	.contactus form {
+		justify-content: center;
+	}
+	.aboutTitle {
+	    height: 280px;
+	    font-size: 35px;
+	}
+	.aboutInfo, .contactInfo label {
+	    font-size: 14px;
+	}
+	.topProducts h1, .latestProducts h1, .brendsSlider h1, .contactus h1 {
+	    font-size: 22px;
+	    margin: 15px 0 30px;
+	}
+	.submitButton button {
+	    width: 90px;
+	    height: 32px;
+	    font-size: 14px;
+	}
+	iframe {
+	    height: 250px;
+	}
+	.contactInfo input, .contactInfo textarea {
+		font-size: 12px;
+	}
+	.webMenu {
+		display: none;
+	}
+	.mobileMenu {
+	    display: block;
+	}
+	.aboutPicture {
+	    height: 300px;
+	}
+	.aboutText {
+	    padding: 0 20px;
+	    height: 300px;
+	}
+	.aboutText h3 {
+	    margin: 20px 0;
+	}
+	.aboutText button {
+		margin: 30px auto;
+	}
+	.imageUploadPart {
+	    display: flex;
+	    justify-content: center;
+	    width: 100%;
+	}
+	.inputspartInOrder {
+	    width: 100%;
+	}
+	.treesection , .brandAndModel , .orderPrice ,.orderSubmit , .inputspartInOrder > p{
+	    width: 70%;
+    	margin: 20px auto;
+	}
+	 .productImageSliders, .productInfo {
+	    width: 90%;
+	}
+	.gallery.list-unstyled.lightSlider.lsGrab.lSSlide, .lSSlideWrapper.usingCss {
+	    height: 340px !important;
+	}
+	.productsPart {
+		width: 100%;
+	}
+	.filterItems {
+	    width: 100%;
+	}
+	.plusIcon {
+	    display: block;
+	}
+	.filterType {
+		cursor: pointer;
+	}
+	.showHideInMobile {
+		display: none;
+	}
+	.selectFilterItem {
+		margin-bottom: 5px;
+	}
+	.productItems .items .imageOfTop {
+	    height: 250px;
+	}
+}
+
+@media (max-width: 600px){
+	.searchInputMobile {
+	    top: 100%;
+	}
+	.searchInputMobile:after {
+	    top: -13px;
+	}
+	.searchInputMobile:before {
+		top: -16px;
+	}
+	.gallery.list-unstyled.lightSlider.lsGrab.lSSlide, .lSSlideWrapper.usingCss {
+	    height: 300px !important;
+	}
+	.pagination a {
+	    width: 20px;
+    	height: 20px;
+	}
+	.aboutTitle {
+	    height: 200px;
+	    font-size: 28px;
+	}
+	.aboutInfo {
+	    padding: 30px 0;
+	}
+	.aboutInfo, .contactInfo label {
+	    font-size: 13px;
+	}
+	.contactInfo, .submitButton {
+	    width: 90%;
+	}
+	.myContainer {
+		width: 90%;
+	}
+	.contactInfo {
+	    padding: 0;
+	}
+	.menuIcon, .menuSearch {
+	    font-size: 20px;
+	}
+	.aboutPicture {
+	    height: 200px;
+	} 
+	.aboutText h3 {
+	    margin: 10px 0;
+	}
+	.aboutText {
+	    padding: 0 10px;
+        height: 200px;
+	}
+	.aboutText button {
+	    margin: 10px auto;
+	}
+	.aboutText p {
+	    max-height: 100px;
+	    font-size: 14px;
+	}
+	#owl-demo .item .imageOfTop {
+	    width: 150px;
+	    height: 150px;
+	}
+	#owl-demo .item .moreInfo, .productItems .items .moreInfo {
+		margin-top: 4px;
+	}
+	.picturePartinOrder {
+		width: 150px;
+    	height: 150px;
+	}
+	.picturePartinOrder label p span {
+	    font-size: 70px;
+	}
+	.gramCarat ,.brandAndModel>div input, .orderPrice>div input{
+	    margin: 0 0px 0 10px;
+
+	}
+	.brandAndModel>div input , .orderPrice>div input{
+		width: 70px;
+	}
+	.brandAndModel>div {
+	    padding-right: 5px;
+	}
+	.treesection h2 , .brandAndModel >div h2 , .orderPrice>div h2 , .orderPrice>div span{
+	    font-size: 14px;
+	    line-height:2;
+	}
+	.gramCarat>div input {
+	    width: 30px;
+	}
+	.productItems .items .imageOfTop {
+	    height: 200px;
+	}
+	.fixedContact>div {
+	    width: 70%;
+	}
+}
+@media (max-width: 400px) {
+	#owl-demo .item .imageOfTop {
+	    width: 120px;
+	    height: 120px;
+	}
+	#owl-demo .item .infoOfTop h3 {
+	    font-size: 12px;
+	}
+	.topProducts h1, .latestProducts h1, .brendsSlider h1, .contactus h1 {
+		font-size: 18px;
+	}
+	#owl-demo .item .infoOfTop p, .productItems .items .infoOfTop p {
+	    font-size: 12px;
+        padding: 5px 10px 5px 0;
+	}
+	.aboutInfo, .contactInfo label, .customWatchDescript {
+	    font-size: 12px;
+	}
+	.owlCarouselOurWorks .item > div:first-child>div, .owlCarouselOurWorks .item > div:last-child>div {
+	    height: 120px;
+    	padding: 10px;
+	}
+	.owlCarouselOurWorks .item > div:nth-child(2) img {
+	    height: 15px !important;
+	    width: 20px !important;
+	}
+	.owlCarouselOurWorks .item > div img {
+		max-width: 100%;
+	}
+	.owlCarouselOurWorks.owl-carousel .owl-nav button.owl-next, .owlCarouselOurWorks.owl-carousel .owl-nav button.owl-prev {
+	    top: 35%;
+    	font-size: 30px;
+	}
+	.customWatchTitle h1 {
+	    font-size: 20px;
+	}
+	.treesection, .brandAndModel, .orderPrice, .orderSubmit, .inputspartInOrder > p {
+	    flex-direction: column;
+	}
+	.gramCarat {
+	    margin: 10px;
+	}
+	.brandAndModel>div {
+		margin-bottom: 10px;
+	}
+	.treesection, .brandAndModel, .orderPrice, .orderSubmit, .inputspartInOrder > p {
+	    margin: 10px auto;
+        font-size: 14px
+	}
+	.orderSubmit button {
+	    padding: 5px 20px;
+	    font-size: 15px;
+	}
+	 .productImageSliders, .productInfo {
+	    width: 100%;
+	}
+	.gallery.list-unstyled.lightSlider.lsGrab.lSSlide, .lSSlideWrapper.usingCss {
+	    height: 270px !important;
+	}
+	.productItems .items .imageOfTop {
+	    height: 160px;
+	}
+	.fixedContact>div {
+	    width: 80%;
+	}
+}
